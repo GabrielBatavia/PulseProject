@@ -132,3 +132,4 @@ Games untuk hiburan sekaligus gamifikasi. Terdapat **dua jenis game**:
 
 ### Repository AI/ML
 [Repo AI/ML](https://github.com/GabrielBatavia/AIC-MechaMinds-17)
+(Private Repo)
